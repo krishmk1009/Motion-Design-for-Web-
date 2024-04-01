@@ -1,0 +1,8 @@
+// we neeed to reduce the orignal size of the video
+there are two formats, mp4 and webm
+mp4 is in large size , but it is slow while webm is small and faster
+batman vs flash
+
+so we can convert the mp4 file using handbreaker soft or any other
+
+instead of src attr in video , we need to use source tag and then define src attr
